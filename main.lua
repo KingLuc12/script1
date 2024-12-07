@@ -53,10 +53,9 @@ RBTSection:Button({
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(120.301392, 148.144531, -588.02478, -0.992546082, 0.073903434, -0.0969047248, 7.48791606e-09, 0.795149803, 0.606413066, 0.12186978, 0.601892948, -0.789222836)
     end
 })
-
 RBTSection:Button({
-    Name = "Stage Left (Low Risk)",
+    Name = "Stage Left Side (Low-Risk)",
     Callback = function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(128.135391, 96.1581345, -378.547058, -0.47120896, -7.48401945e-08, 0.882021606, -8.92897276e-08, 1, 3.71488333e-08, -0.882021606, -6.12506099e-08, -0.47120896))
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(128.135391, 96.1581345, -378.547058, -0.47120896, -7.48401945e-08, 0.882021606, -8.92897276e-08, 1, 3.71488333e-08, -0.882021606, -6.12506099e-08, -0.47120896)
     end
 })
